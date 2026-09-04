@@ -8,7 +8,6 @@
 
 ---
 
-## About Me
 
 I'm interested in building robotic systems that combine **computer vision, motion control, simulation and machine learning**.
 
