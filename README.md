@@ -93,9 +93,9 @@ A physical Tic-Tac-Toe player combining **computer vision, Minimax and robotic m
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucaeffe03-181717?style=flat-square&logo=github)](https://github.com/lucaeffe03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Fagioli-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luca-fagioli/)
 [![Hackaday](https://img.shields.io/badge/Hackaday-lucaeffe03-1A1A1A?style=flat-square)](https://hackaday.io/lucaeffe03)
+[![Hackster](https://img.shields.io/badge/Hackster-lucaeffe03-1A1A1A?style=flat-square)](https://www.hackster.io/luca-fagioli)
 
 </div>
 
