@@ -85,6 +85,28 @@ A physical Tic-Tac-Toe player combining **computer vision, Minimax and robotic m
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Robotic Connect 4
+
+<a href="https://github.com/lucaeffe03/MeArm-Connect4">
+<img src="assets/demo.gif" width="100%">
+</a>
+
+End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax AI, multiprocessing and Teach & Play kinematics**.
+
+`PyBullet` `Minimax` `Multiprocessing` `CustomTkinter`
+
+**[→ Repository](https://github.com/lucaeffe03/MeArm-Connect4)**
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
