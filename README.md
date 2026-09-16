@@ -89,7 +89,7 @@ A physical Tic-Tac-Toe player combining **computer vision, Minimax and robotic m
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Robotic Connect 4
+### 🔴🟡 Robotic Connect 4
 
 <a href="https://github.com/lucaeffe03/MeArm-Connect4">
 <img src="assets/demo.gif" width="100%">
