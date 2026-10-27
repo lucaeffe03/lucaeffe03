@@ -111,7 +111,7 @@ End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax 
 ### 📡🚙 SLAM Radar 2D Robot Car
 
 <a href="https://github.com/lucaeffe03/4WD-SLAM-Radar-2D-Robot-Car">
-<img src="assets/demo.gif" width="100%">
+<video src="https://github.com/user-attachments/assets/467e1637-31ea-4f24-a2db-f0dedb3115b5" autoplay loop muted playsinline controls style="max-width: 100;"></video>
 </a>
 
 End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax AI, multiprocessing and Teach & Play kinematics**.
