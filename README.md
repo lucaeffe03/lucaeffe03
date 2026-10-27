@@ -105,8 +105,6 @@ End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax 
 
 <td width="50%" valign="top">
 
-</td>
-</tr>
 
 ### 📡🚙 SLAM Radar 2D Robot Car
 
