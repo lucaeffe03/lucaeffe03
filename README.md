@@ -112,7 +112,7 @@ End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax 
 
 </a>
 
-End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax AI, multiprocessing and Teach & Play kinematics**.
+An autonomous 4-wheel drive explorer robot based on Arduino UNO R4 WiFi, designed to navigate through paths and mazes while detecting surrounding obstacles.
 
 `SLAM` `arduino-uno-r4`
 
