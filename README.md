@@ -109,7 +109,7 @@ End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax 
 ### 📡🚙 SLAM Radar 2D Robot Car
 
 <a href="https://github.com/lucaeffe03/4WD-SLAM-Radar-2D-Robot-Car">
-
+<img src="assets/carr.gif" width="100%">
 </a>
 
 An autonomous 4-wheel drive explorer robot based on Arduino UNO R4 WiFi, designed to navigate through paths and mazes while detecting surrounding obstacles.
@@ -117,7 +117,7 @@ An autonomous 4-wheel drive explorer robot based on Arduino UNO R4 WiFi, designe
 `SLAM` `arduino-uno-r4`
 
 **[→ Repository](https://github.com/lucaeffe03/4WD-SLAM-Radar-2D-Robot-Car)**
-<img src="assets/carr.gif" width="100%">
+
 </td>
 
 <td width="50%" valign="top">
