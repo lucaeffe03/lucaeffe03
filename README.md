@@ -113,6 +113,7 @@ End-to-end physics simulation of a MeArm playing Connect 4, featuring **Minimax 
 </a>
 
 An autonomous 4-wheel drive explorer robot based on Arduino UNO R4 WiFi, designed to navigate through paths and mazes while detecting surrounding obstacles.
+
 ⭐ **Featured on [Hackaday](https://hackaday.com/?p=1396477) & by Arduino on official social media**
 
 `SLAM` `arduino-uno-r4`
